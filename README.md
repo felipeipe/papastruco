@@ -1,4 +1,4 @@
-# Truco
+# Papa's Truco
 
 Site e API de um jogo de Truco.
 
